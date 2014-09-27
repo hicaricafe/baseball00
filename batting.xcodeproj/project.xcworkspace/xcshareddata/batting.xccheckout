@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>931AA4B8-46C6-4488-9A98-B284F9BB0BE3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>batting</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E5CEC3DB2C805DF5F8DF887EE887F5AA83C58333</key>
+		<string>https://github.com/hikaricafe/batting01.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>batting.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E5CEC3DB2C805DF5F8DF887EE887F5AA83C58333</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/hikaricafe/batting01.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E5CEC3DB2C805DF5F8DF887EE887F5AA83C58333</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E5CEC3DB2C805DF5F8DF887EE887F5AA83C58333</string>
+			<key>IDESourceControlWCCName</key>
+			<string>batting04</string>
+		</dict>
+	</array>
+</dict>
+</plist>
